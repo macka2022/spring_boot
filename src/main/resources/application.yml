@@ -1,0 +1,11 @@
+server:
+  sev:
+    context-path: /api
+
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/studentdemo
+    username: postgres
+    password: passer
+    pool-size: 30
+

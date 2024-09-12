@@ -1,0 +1,3 @@
+
+ALTER TABLE student_course
+ADD COLUMN id UUID PRIMARY KEY;
