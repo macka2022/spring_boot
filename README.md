@@ -4,11 +4,17 @@
   Description
   Cette application de gestion des etudiants cree eles etudiant , cours et ...
 
-  Technologies
+  Technologie
+  
 - Java 22
+  
 - Spring Boot
+ 
 - JDBC
-- PostgreSQL 
+ 
+- PostgreSQL
+ 
 -FLAYWAY
+
 -DOCKER
 ........
