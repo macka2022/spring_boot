@@ -1,20 +1,19 @@
  Titre du projet
  Application de Gestion des etudiants 
 
-  Description
-  Cette application de gestion des etudiants cree eles etudiant , cours et ...
+  
 
   Technologie
   
-- Java 22
+  Java 22
   
-- Spring Boot
+  Spring Boot
  
-- JDBC
+  JDBC
  
-- PostgreSQL
+  PostgreSQL
  
--FLAYWAY
+  FLAYWAY
 
--DOCKER
+  DOCKER
 ........
